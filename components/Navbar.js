@@ -73,7 +73,7 @@ const Navbar = () => {
                                         </a>
                                     </div>
                                     <div>
-                                        <a href='www.linkedin.com/in/sai-karthik-balivada-6019482b5'
+                                        <a href='https://linkedin.com/in/sai-karthik-balivada-6019482b5'
                                             target='_blank'
                                             rel='noopener noreferrer'
                                         >
@@ -158,7 +158,7 @@ const Navbar = () => {
                                         </div>
                                         <div className='rounded shadow-lg shadow-gray-400 p-3 cursor-pointer'>
                                             <a
-                                                href='www.linkedin.com/in/sai-karthik-balivada-6019482b5'
+                                                href='https://linkedin.com/in/sai-karthik-balivada-6019482b5'
                                                 target='_blank'
                                                 rel='noopener noreferrer'
                                             >
