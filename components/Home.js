@@ -34,7 +34,7 @@ const Home = () => {
                     <div className='flex flex-wrap justify-center gap-4 mt-8 grid-cols-2'>
                         <Link href='/projects'>
                             <a
-                                target='_blank'
+                               
                                 rel='noopener noreferrer'
                                 className='px-12 py-3 text-sm font-medium text-culturedWhite bg-mnBlue rounded shadow active:bg-blue-500 hover:bg-carolinaBlue focus:outline-none focus:ring'
                             >
