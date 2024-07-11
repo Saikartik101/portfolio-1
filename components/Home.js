@@ -26,10 +26,10 @@ const Home = () => {
                         Sai Karthik Balivada
                     </h1>
                     <h1 className='text-4xl text-blue-500 font-extrabold md:text-6xl'>
-                        Full Stack Developer
+                        Cloud, DevOps, SRE
                     </h1>
                     <p className='text-sm mt-4 sm:leading-relaxed md:text-xl text-black'>
-                        Full Stack Web Developer, Cloud Native, DevOps, Machine Learning
+                        Cloud Native, DevOps, Machine Learning
                     </p>
                     <div className='flex flex-wrap justify-center gap-4 mt-8 grid-cols-2'>
                         <Link href='/projects'>
